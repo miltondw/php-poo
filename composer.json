@@ -1,0 +1,16 @@
+{
+    "name": "miltondw/poo",
+    "description": "curso de php",
+    "autoload": {
+        "psr-4": {
+            "Miltondw\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "miltondw",
+            "email": "estradamilton2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
